@@ -1,6 +1,6 @@
-title: ""
-description: ""
-baseurl: ""
+title: "ZENTO BOX"
+description: "I MAKE MUSIC: SITCOM OUT NOW"
+baseurl: "zentobox.com"
 url: ""
 
 lowercase: true
@@ -15,3 +15,5 @@ target: "_self"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+theme: hacked-jekyll
